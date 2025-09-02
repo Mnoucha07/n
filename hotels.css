@@ -183,6 +183,7 @@ nav a:hover {
   border: 1px solid #ccc;
   border-radius: 5px;
   outline: none;
+  font-size: 16px;
 }
 
 #bookingForm button {
@@ -269,3 +270,4 @@ nav a:hover {
     display: block;
   }
 }
+
