@@ -138,6 +138,14 @@ body {
     justify-content: space-between;
     display: flex;
   }
+  .remember-forget label input  {
+  accent-color: #0078ff;
+  justify-content: space-between;
+  align-items: center;
+  align-content: flex-start;
+  display: flex;
+  margin-right: 5px;
+}
 
   .register-link {
     font-size: 13px;
