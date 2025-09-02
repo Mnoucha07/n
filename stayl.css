@@ -1,6 +1,4 @@
-html{
-scroll-behavior: smooth;
-}
+
 
 body {
   font-family: Poppins;
@@ -83,7 +81,8 @@ body {
 .remember-forget {
   display: flex;
   justify-content: space-between;
-  font-size: 14.5px;
+  font-size: 14px;
+  align-items: center;
 }
 .remember-forget label input  {
   accent-color: #0078ff;
@@ -91,7 +90,9 @@ body {
   align-items: center;
   align-content: flex-start;
   display: flex;
+  margin-right: 5px;
 }
+
 .remember-forget label {
   display: flex;
   align-items: center;
@@ -106,6 +107,7 @@ body {
 .remember-forget a {
   color: #005fcc;
   text-decoration: none;
+  font-size: 14px;
 }
 .remember-forget a:hover {
   text-decoration: underline;
